@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-18122025-071701";"";
+"REFERENCE";"430450612";"";
+"TraceParts.PartTitle";"Micro-Fit 3.0";"";
+"TraceParts.InstanceId";"33-18122025-0717015IS4EUE2G9FCELJLTMZFSNLVJ";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Micro-Fit 3.0 Vertical Header, 3.00mm Pitch, Dual Row, 6 Circuits, with PCB Polarizing Peg, 1.52µm Matte Tin Plating, Glow-Wire Capable, Black";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.8";"";
