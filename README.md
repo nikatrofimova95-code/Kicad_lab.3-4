@@ -1,7 +1,7 @@
 
 # Навчальний проєкт KiCad
 
-Друкована плата, 3d.
+Друкована плата, 3d:
 
 <img width="701" height="516" alt="Знімок екрана 2026-10-27 175040" src="https://github.com/user-attachments/assets/eb73b414-4135-45b9-9529-6de91f021cb1" />
 
